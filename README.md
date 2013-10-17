@@ -1,4 +1,4 @@
 XSpect
 ======
 
-Aspect-Oriented and Closure-Oriented programming for Objective-C.
+A lightweight library to make your code reusable and maintainable.
