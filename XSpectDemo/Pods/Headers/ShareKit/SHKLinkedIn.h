@@ -1,0 +1,1 @@
+../../ShareKit/Classes/ShareKit/Sharers/Services/LinkedIn/SHKLinkedIn.h

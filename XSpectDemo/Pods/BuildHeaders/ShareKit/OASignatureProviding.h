@@ -1,0 +1,1 @@
+../../ShareKit/Classes/ShareKit/Core/Helpers/OAuth/OASignatureProviding.h

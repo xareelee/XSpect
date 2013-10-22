@@ -1,0 +1,1 @@
+../../Evernote-SDK-iOS/evernote-sdk-ios/Utilities/ENMLWriter/NSString+EDAMNilAdditions.h

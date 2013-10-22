@@ -1,0 +1,1 @@
+../../Evernote-SDK-iOS/evernote-sdk-ios/3rdParty/NSString+URLEncoding/NSString+URLEncoding.h

@@ -1,0 +1,1 @@
+../../Evernote-SDK-iOS/evernote-sdk-ios/internal/Bridge/ENSearchRequest.h

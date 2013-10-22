@@ -8,7 +8,7 @@
 
 
 #define Introspect Matryoshka matryoshka = assembleMatryoshka(
-#define MainTask     ^ Matryoshka(Matryoshka innerBlock){ \
+#define MainTask     ^ Matryoshka(Matryoshka innerMatryoshka){ \
 return ^(){
 
 #define EndIntrospection }; \

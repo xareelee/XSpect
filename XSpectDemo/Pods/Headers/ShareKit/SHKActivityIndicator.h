@@ -1,0 +1,1 @@
+../../ShareKit/Classes/ShareKit/UI/SHKActivityIndicator.h

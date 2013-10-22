@@ -1,0 +1,1 @@
+../../ShareKit/Classes/ShareKit/Sharers/Services/Vkontakte/SHKVkontakteOAuthView.h

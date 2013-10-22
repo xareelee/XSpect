@@ -1,0 +1,1 @@
+../../ShareKit/Classes/ShareKit/Core/Base Sharer Classes/SHKOAuthSharer.h

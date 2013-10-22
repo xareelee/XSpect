@@ -1,0 +1,1277 @@
+TSSToolkitResources
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c00000000525F97890000000000000100
+t1381996425
+s256
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c00000000525F9789000000000000015E
+t1381996425
+s350
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c00000000525F9789000000000000036F
+t1381996425
+s879
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c00000000525F978900000000000004E0
+t1381996425
+s1248
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c00000000525F9789000000000000027C
+t1381996425
+s636
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c00000000525F978900000000000003C9
+t1381996425
+s969
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c00000000525F97890000000000000240
+t1381996425
+s576
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c00000000525F97890000000000000525
+t1381996425
+s1317
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c00000000525F97890000000000000248
+t1381996425
+s584
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c00000000525F9789000000000000053E
+t1381996425
+s1342
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c00000000525F9789000000000000008E
+t1381996425
+s142
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c00000000525F978900000000000000CC
+t1381996425
+s204
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c00000000525F9789000000000000008E
+t1381996425
+s142
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c00000000525F978900000000000000E7
+t1381996425
+s231
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c00000000525F9789000000000000012C
+t1381996425
+s300
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c00000000525F978900000000000001FE
+t1381996425
+s510
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button.png
+c00000000525F9789000000000000015F
+t1381996425
+s351
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c00000000525F97890000000000000262
+t1381996425
+s610
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c00000000525F9789000000000000008E
+t1381996425
+s142
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c00000000525F978900000000000000FC
+t1381996425
+s252
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button.png
+c00000000525F978900000000000000BB
+t1381996425
+s187
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c00000000525F978900000000000000FD
+t1381996425
+s253
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c00000000525F97890000000000000094
+t1381996425
+s148
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c00000000525F978900000000000000ED
+t1381996425
+s237
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button.png
+c00000000525F978900000000000000AE
+t1381996425
+s174
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c00000000525F97890000000000000104
+t1381996425
+s260
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star.png
+c00000000525F97890000000000000DC4
+t1381996425
+s3524
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c00000000525F9789000000000000118E
+t1381996425
+s4494
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check.png
+c00000000525F978900000000000001A1
+t1381996425
+s417
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c00000000525F97890000000000000299
+t1381996425
+s665
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x.png
+c00000000525F978900000000000001BA
+t1381996425
+s442
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c00000000525F97890000000000000310
+t1381996425
+s784
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star.png
+c00000000525F97890000000000000EB3
+t1381996425
+s3763
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c00000000525F97890000000000001456
+t1381996425
+s5206
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c00000000525F97890000000000000106
+t1381996425
+s262
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c00000000525F9789000000000000020E
+t1381996425
+s526
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button.png
+c00000000525F97890000000000000175
+t1381996425
+s373
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c00000000525F978900000000000002AE
+t1381996425
+s686
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c00000000525F97890000000000000116
+t1381996425
+s278
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c00000000525F978900000000000002A4
+t1381996425
+s676
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button.png
+c00000000525F978900000000000001A2
+t1381996425
+s418
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c00000000525F97890000000000000317
+t1381996425
+s791
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c00000000525F978900000000000000D2
+t1381996425
+s210
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c00000000525F97890000000000000135
+t1381996425
+s309
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button.png
+c00000000525F978900000000000000FC
+t1381996425
+s252
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c00000000525F97890000000000000170
+t1381996425
+s368
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c00000000525F97890000000000000572
+t1381996425
+s1394
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c00000000525F97890000000000000369
+t1381996425
+s873
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c00000000525F97890000000000000352
+t1381996425
+s850
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c00000000525F97890000000000000374
+t1381996425
+s884
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c00000000525F97890000000000000361
+t1381996425
+s865
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c00000000525F97890000000000000361
+t1381996425
+s865
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c00000000525F9789000000000000035C
+t1381996425
+s860
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c00000000525F978900000000000005F0
+t1381996425
+s1520
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c00000000525F9789000000000000033A
+t1381996425
+s826
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c00000000525F97890000000000000370
+t1381996425
+s880
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c00000000525F97890000000000000376
+t1381996425
+s886
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c00000000525F9789000000000000035A
+t1381996425
+s858
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c00000000525F97890000000000000361
+t1381996425
+s865
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c00000000525F97890000000000000382
+t1381996425
+s898
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c00000000525F9789000000000000036C
+t1381996425
+s876
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c00000000525F9789000000000000035A
+t1381996425
+s858
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c00000000525F97890000000000000358
+t1381996425
+s856
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle
+t1381996458
+s2210
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1381996457
+s1191
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1381996457
+s234
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1381996457
+s414
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1381996457
+s887
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1381996457
+s1144
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1381996457
+s482
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1381996457
+s824
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1381996457
+s623
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1381996457
+s1775
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1381996457
+s611
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1381996457
+s1623
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1381996457
+s183
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1381996457
+s340
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1381996457
+s182
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1381996457
+s346
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1381996457
+s466
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1381996458
+s871
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1381996458
+s575
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1381996458
+s1062
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1381996458
+s180
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1381996458
+s395
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1381996458
+s249
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1381996458
+s378
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1381996457
+s581
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1381996457
+s306
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1381996457
+s548
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1381996458
+s190
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1381996458
+s341
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1381996458
+s204
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1381996458
+s349
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1381996457
+s489
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1381996457
+s3526
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1381996457
+s4956
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1381996457
+s393
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1381996457
+s629
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1381996457
+s442
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1381996457
+s818
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1381996457
+s481
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1381996457
+s530
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1381996457
+s482
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1381996457
+s474
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1381996457
+s531
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1381996457
+s522
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1381996457
+s3704
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1381996457
+s5221
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1381996457
+s496
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1381996457
+s501
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1381996458
+s262
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1381996458
+s935
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1381996458
+s610
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1381996458
+s1223
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1381996457
+s608
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1381996458
+s278
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1381996458
+s1167
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1381996458
+s705
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1381996458
+s1371
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1381996458
+s275
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1381996458
+s394
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1381996458
+s330
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1381996458
+s456
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1381996457
+s597
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1381996457
+s515
+
+N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1381996457
+s504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese52ba969d00fb841^35f0c769d00fb841^---0#1#1#--18"Check dependencies36"6457F322-0518-4CDE-A767-EE206FF595DF-
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s403689257.875083
+e403689257.947188
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png1a4fe029cf0fb841^1c7bf229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^864"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"BB378E93-60CE-4D14-844E-19A8E350E8C8-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s403689257.875661
+e403689257.949283
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png0d6de029cf0fb841^2504f329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^876"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png36"5584BB9E-A15A-4A92-AC0D-A65471D23460-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s403689257.875833
+e403689257.948251
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png2882e029cf0fb841^4cc1f229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^848"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"9AE213A6-8898-4250-8257-09B3DC9ED938-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s403689257.876784
+e403689257.948453
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png12a2e029cf0fb841^46cef229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^860"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png36"B1ACF421-5725-45FC-BAAA-F736352F81EB-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s403689257.876807
+e403689257.947509
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.pngfbaee029cf0fb841^8a90f229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^840"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"8463ED2F-71D2-4891-989A-F19940EEC095-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s403689257.878085
+e403689257.949443
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.pngcefee029cf0fb841^1118f329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^852"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png36"2CB5D2E9-835E-4253-B9C9-3E26C1279C00-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s403689257.878063
+e403689257.947876
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.pngd2fde029cf0fb841^76a8f229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^812"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png36"38489364-5B43-4B07-A690-27E0ADC47DD1-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s403689257.878088
+e403689257.949732
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png87fbe029cf0fb841^9b1ff329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^824"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png36"5990D35B-57A5-415D-A393-1D9A3155E0C3-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s403689257.948443
+e403689258.007394
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.pngd9eaf229cf0fb841^82e4012acf0fb841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^856"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"BFDE08DF-5DD3-4A6D-9384-CA2BA3B538FB-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s403689257.948582
+e403689258.008413
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png07ecf229cf0fb841^af27022acf0fb841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^868"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png36"4011FBC2-25A3-4368-BC98-CC5FE324897D-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s403689257.948589
+e403689258.007652
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png9fe8f229cf0fb841^23f6012acf0fb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^816"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png36"637E245D-4FF9-421C-9859-DB7B37D71B40-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s403689257.948604
+e403689258.007996
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png4aecf229cf0fb841^8d0c022acf0fb841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^828"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png36"33895309-54D4-42ED-AFDC-2557D5D668F5-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s403689257.949697
+e403689258.009545
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.pnga73bf329cf0fb841^c972022acf0fb841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^860"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"8E1C30B7-AFF4-40A0-B768-DD2407B4ECE5-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s403689257.949725
+e403689258.009351
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png083df329cf0fb841^aa66022acf0fb841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^872"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png36"D29BFAE6-A8E1-45F9-BBC9-21E727560D22-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s403689257.949707
+e403689258.008575
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png213bf329cf0fb841^0d39022acf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^812"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png36"DB963EF7-8E50-44BF-BC0C-A0F2CAC6F121-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s403689257.950968
+e403689258.051009
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png338cf329cf0fb841^91270d2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^824"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png36"039FBB06-10BE-44DB-A055-1F2AAA880CE8-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s403689258.008660
+e403689258.063447
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png0057022acf0fb841^8d44102acf0fb841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^792"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png36"EF0974BB-51F4-4296-BE1A-3C304D8FCBD7-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s403689258.008844
+e403689258.189490
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.pngb35c022acf0fb841^821f312acf0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^804"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png36"66A61B85-6455-4FAA-8B4E-E07C117F632F-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s403689258.008861
+e403689258.187534
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.pnga857022acf0fb841^670b302acf0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^804"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png36"3947A10E-AF04-4138-9126-2D1A95ECD1F8-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s403689258.008862
+e403689258.189729
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.pngd55c022acf0fb841^f92e312acf0fb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^816"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png36"F77F5C6E-3204-41A6-807A-1D5C7A136AE2-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s403689258.009753
+e403689258.188784
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png0f99022acf0fb841^98a6302acf0fb841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^784"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png36"E883BAA7-1EF2-4D79-838F-682459CC033D-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s403689258.010005
+e403689258.189497
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png11ac022acf0fb841^4e2b312acf0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^796"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png36"9CAB5EF5-3F0D-46AA-BC71-89E84E17F005-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s403689258.010015
+e403689258.170993
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.pngd6ad022acf0fb841^d6c72b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^816"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png36"217E5BC8-8DC9-4121-8824-BA69F3ED70B4-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s403689258.052455
+e403689258.188077
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png0ea20d2acf0fb841^ada1302acf0fb841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^828"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png36"DDC29F4A-162B-4013-AE50-D0311209ED07-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s403689258.065109
+e403689258.187551
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png4bcb102acf0fb841^ae9d302acf0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^796"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png36"A53E6563-6C61-4F94-BF85-B2630F4CA4CF-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s403689258.172643
+e403689258.232168
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png15542c2acf0fb841^5bb13b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^808"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png36"4E4AB2D9-199B-4264-8F4C-F6AF85BE374D-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s403689257.269469
+e403689257.874324
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png59154529cf0fb841^f1d4df29cf0fb841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^776"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png36"D8F6F2D4-44A2-4236-BB8F-D9857A450B00-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s403689257.271669
+e403689257.876181
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.pngada44529cf0fb841^0b43e029cf0fb841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^788"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png36"C87892DB-F32A-467D-9911-289769A1BC78-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s403689257.265948
+e403689257.873821
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png8f384429cf0fb841^eab3df29cf0fb841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^776"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png36"9C78EFC4-6CAB-4769-9D3F-5F3D91E37929-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s403689257.267025
+e403689257.875134
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png08764429cf0fb841^d718e029cf0fb841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^788"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png36"9B9A2FF1-72EA-45F1-BA53-0A070553D4CE-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s403689257.268284
+e403689257.873446
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png19c74429cf0fb841^139bdf29cf0fb841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^760"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png36"4FE4AF31-728B-4CB7-A43C-77EEAD8B136A-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s403689257.269334
+e403689257.875661
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png4e0c4529cf0fb841^dc2ae029cf0fb841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^772"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png36"4F95EF4E-EEB3-4C1D-B227-8CF28B587647-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s403689257.271830
+e403689257.874713
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.pngb0ab4529cf0fb841^e9eddf29cf0fb841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^784"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png36"0606EC76-2317-4CF3-949A-312568C85D1B-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s403689257.273979
+e403689257.876229
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png2e394629cf0fb841^1d5ae029cf0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^796"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png36"B3FEAC1F-9E22-464A-A3AB-C1F5BF9D47D3-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s403689258.188767
+e403689258.234104
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.pnge272302acf0fb841^20f13b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^812"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png36"E602836F-549B-4BEA-883C-BFBA2A7B6FF2-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s403689258.189274
+e403689258.238291
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.pngd690302acf0fb841^3b183d2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^824"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png36"3369E3B6-C4FF-4AA6-AC81-C3A5E1268E51-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s403689258.189331
+e403689258.238548
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png5b95302acf0fb841^24253d2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^792"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png36"0BD36E8D-308B-42C2-9612-DEBDB87954E8-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s403689258.190232
+e403689258.240312
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png77d8302acf0fb841^12863d2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^804"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png36"75BC2D3A-B6B0-4A0B-ADB5-2E3F8AB5EA28-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s403689258.190690
+e403689258.239696
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png46eb302acf0fb841^84643d2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^812"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png36"DCB22166-C306-45B9-BD00-8CA8FECDCA92-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s403689258.191166
+e403689258.241525
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png9a0a312acf0fb841^1bd53d2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^824"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png36"940EDF95-2B15-4D41-B632-8089D11A398F-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s403689258.191192
+e403689258.262546
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png2c0c312acf0fb841^7a36432acf0fb841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^792"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png36"83107881-DD8A-4967-B3F4-E379F466EF79-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s403689258.233452
+e403689258.287158
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png36e43b2acf0fb841^cf85492acf0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^804"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png36"326A33B1-39FC-4B60-98A0-5973D74A8131-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s403689258.235338
+e403689258.293798
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png4b5b3c2acf0fb841^9c364b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^804"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png36"08EC36E8-720B-4C0E-913F-74BAC1AFC950-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s403689258.239565
+e403689258.294355
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png54733d2acf0fb841^2d5b4b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^816"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png36"CCEB224C-ACB4-44EB-8541-5D1DB688D2D6-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s403689258.240251
+e403689258.294039
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png499c3d2acf0fb841^67464b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^784"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png36"0FF191EA-B2FE-4C47-BAF0-42CD33536D76-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s403689258.240977
+e403689258.294805
+r1
+xCopyPNGFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pngc5c93d2acf0fb841^ee784b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^796"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"F46DA68D-B828-4069-856A-FC2136346F50-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s403689257.228137
+e403689257.261018
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.stringsfca83a29cf0fb841^9ad24229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"C3C81CCB-4CAD-4DDD-9772-E5DFF16FDAF0-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s403689257.228152
+e403689257.260826
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings60923a29cf0fb841^f4c54229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"6E5F5380-D35D-48B6-84C8-95A1289797B9-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s403689257.228138
+e403689257.261105
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings5e9e3a29cf0fb841^52d74229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"B5C5CCAA-302D-4D1C-9826-A706E090D030-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s403689257.228254
+e403689257.262323
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.stringsf8a93a29cf0fb841^c3294329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"569BD56E-3DDA-4CDB-9030-1578768E6B0B-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s403689257.228279
+e403689257.261273
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings44a83a29cf0fb841^97e24229cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"0E026BC5-DC24-4427-9C48-7277EBC3669C-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s403689257.228270
+e403689257.261986
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.stringsf0a73a29cf0fb841^2b124329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"6A8EB187-737B-41FC-A224-D1C29538305C-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s403689257.229406
+e403689257.262156
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings72df3a29cf0fb841^861c4329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"A709237D-586C-48C5-8395-FAF50AF7D62B-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s403689257.229412
+e403689257.262457
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.stringsf0dd3a29cf0fb841^e3354329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"0B9B1A97-1C65-4655-8E19-88DF69B5294B-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s403689257.262092
+e403689257.264773
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings433b4329cf0fb841^c1c84329cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"45FE467A-3624-4E78-B7D3-C54B7943BA71-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s403689257.262281
+e403689257.265820
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings6b494329cf0fb841^4e0d4429cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"E2A37791-0B05-4567-AD57-6FDDAD8549CE-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s403689257.262291
+e403689257.267054
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.stringsb64b4329cf0fb841^815e4429cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"6AF76D71-71B6-48D7-B7B1-1D712F925FC1-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s403689257.262678
+e403689257.268162
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings111"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.stringsb0584329cf0fb841^dba64429cf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^747"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"56BC8F99-9891-4883-80EB-FCA663B2C027-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s403689257.263178
+e403689257.269208
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings7e734329cf0fb841^68eb4429cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"91FCC2C0-B0B0-4DF5-A0D7-20975B1F26E3-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s403689257.263350
+e403689257.270495
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings0a824329cf0fb841^03404529cf0fb841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^735"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"37A34757-262E-443C-A25E-D25D114379A9-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s403689257.263361
+e403689257.271497
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings12844329cf0fb841^49814529cf0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^755"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"B4BBFD90-6311-4A44-8C2D-802F601CD3F8-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s403689257.263392
+e403689257.272689
+r1
+xCopyStringsFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings55844329cf0fb841^68cf4529cf0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^755"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"5116DEC9-6033-4DF7-9373-95FC7FDBBB5A-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CProcessInfoPlistFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+s403689257.215309
+e403689257.219533
+r1
+xProcessInfoPlistFile
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist97"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist47593729cf0fb841^83333829cf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^773"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"42A55189-EDF0-4FFD-9669-E3A9A5D01EF3-
+b556C1C31-576C-4FEF-987C-46D2955161BB
+
+CTouch /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+

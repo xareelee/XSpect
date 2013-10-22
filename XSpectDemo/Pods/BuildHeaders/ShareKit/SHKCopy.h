@@ -1,0 +1,1 @@
+../../ShareKit/Classes/ShareKit/Sharers/Actions/Copy/SHKCopy.h
