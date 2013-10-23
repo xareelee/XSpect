@@ -1,5 +1,5 @@
-# CocoaPods 0.25.0
+# CocoaPods 0.26.2
 platform :ios, '6.0'
 
-pod 'ShareKit'			#
+pod 'ShareKit'			# '2.4.3'
 

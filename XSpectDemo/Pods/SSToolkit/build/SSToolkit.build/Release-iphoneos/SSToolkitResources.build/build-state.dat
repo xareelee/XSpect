@@ -2,70 +2,70 @@ TSSToolkitResources
 v6
 r1
 cCheck dependencies
-cProcessInfoPlistFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
-cCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
-cCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
-cTouch /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/./SSToolkitResources.bundle
+cProcessInfoPlistFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/./SSToolkitResources.bundle
 
 N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
 c00000000525F97890000000000000100
@@ -638,9 +638,580 @@ N/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Han
 t1381996457
 s504
 
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c00000000525F97880000000000000100
+t1381996424
+s256
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c00000000525F9788000000000000015E
+t1381996424
+s350
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c00000000525F9788000000000000036F
+t1381996424
+s879
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c00000000525F978800000000000004E0
+t1381996424
+s1248
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c00000000525F9788000000000000027C
+t1381996424
+s636
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c00000000525F978800000000000003C9
+t1381996424
+s969
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c00000000525F97880000000000000240
+t1381996424
+s576
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c00000000525F97880000000000000525
+t1381996424
+s1317
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c00000000525F97880000000000000248
+t1381996424
+s584
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c00000000525F9788000000000000053E
+t1381996424
+s1342
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c00000000525F9788000000000000008E
+t1381996424
+s142
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c00000000525F978800000000000000CC
+t1381996424
+s204
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c00000000525F9788000000000000008E
+t1381996424
+s142
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c00000000525F978800000000000000E7
+t1381996424
+s231
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c00000000525F9788000000000000012C
+t1381996424
+s300
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c00000000525F978800000000000001FE
+t1381996424
+s510
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button.png
+c00000000525F9788000000000000015F
+t1381996424
+s351
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c00000000525F97880000000000000262
+t1381996424
+s610
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c00000000525F9788000000000000008E
+t1381996424
+s142
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c00000000525F978800000000000000FC
+t1381996424
+s252
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button.png
+c00000000525F978800000000000000BB
+t1381996424
+s187
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c00000000525F978800000000000000FD
+t1381996424
+s253
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c00000000525F97880000000000000094
+t1381996424
+s148
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c00000000525F978800000000000000ED
+t1381996424
+s237
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button.png
+c00000000525F978800000000000000AE
+t1381996424
+s174
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c00000000525F97880000000000000104
+t1381996424
+s260
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star.png
+c00000000525F97880000000000000DC4
+t1381996424
+s3524
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c00000000525F9788000000000000118E
+t1381996424
+s4494
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check.png
+c00000000525F978800000000000001A1
+t1381996424
+s417
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c00000000525F97880000000000000299
+t1381996424
+s665
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x.png
+c00000000525F978800000000000001BA
+t1381996424
+s442
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c00000000525F97880000000000000310
+t1381996424
+s784
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star.png
+c00000000525F97880000000000000EB3
+t1381996424
+s3763
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c00000000525F97880000000000001456
+t1381996424
+s5206
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c00000000525F97880000000000000106
+t1381996424
+s262
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c00000000525F9788000000000000020E
+t1381996424
+s526
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button.png
+c00000000525F97880000000000000175
+t1381996424
+s373
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c00000000525F978800000000000002AE
+t1381996424
+s686
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c00000000525F97880000000000000116
+t1381996424
+s278
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c00000000525F978800000000000002A4
+t1381996424
+s676
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button.png
+c00000000525F978800000000000001A2
+t1381996424
+s418
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c00000000525F97880000000000000317
+t1381996424
+s791
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c00000000525F978800000000000000D2
+t1381996424
+s210
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c00000000525F97880000000000000135
+t1381996424
+s309
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button.png
+c00000000525F978800000000000000FC
+t1381996424
+s252
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c00000000525F97880000000000000170
+t1381996424
+s368
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c00000000525F97880000000000000572
+t1381996424
+s1394
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c00000000525F97880000000000000369
+t1381996424
+s873
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c00000000525F97880000000000000352
+t1381996424
+s850
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c00000000525F97880000000000000374
+t1381996424
+s884
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c00000000525F97880000000000000361
+t1381996424
+s865
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c00000000525F97880000000000000361
+t1381996424
+s865
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c00000000525F9788000000000000035C
+t1381996424
+s860
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c00000000525F978800000000000005F0
+t1381996424
+s1520
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c00000000525F9788000000000000033A
+t1381996424
+s826
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c00000000525F97880000000000000370
+t1381996424
+s880
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c00000000525F97880000000000000376
+t1381996424
+s886
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c00000000525F9788000000000000035A
+t1381996424
+s858
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c00000000525F97880000000000000361
+t1381996424
+s865
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c00000000525F97880000000000000382
+t1381996424
+s898
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c00000000525F9788000000000000036C
+t1381996424
+s876
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c00000000525F9788000000000000035A
+t1381996424
+s858
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c00000000525F97880000000000000358
+t1381996424
+s856
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle
+t1381996458
+s2210
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1381996456
+s1191
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1381996456
+s234
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1381996456
+s414
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1381996456
+s887
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1381996456
+s1144
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1381996456
+s482
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1381996456
+s824
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1381996456
+s623
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1381996456
+s1775
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1381996456
+s611
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1381996456
+s1623
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1381996456
+s183
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1381996456
+s340
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1381996456
+s182
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1381996456
+s346
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1381996456
+s466
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1381996458
+s871
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1381996458
+s575
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1381996458
+s1062
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1381996458
+s180
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1381996458
+s395
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1381996458
+s249
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1381996458
+s378
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1381996456
+s581
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1381996456
+s306
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1381996456
+s548
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1381996458
+s190
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1381996458
+s341
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1381996458
+s204
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1381996458
+s349
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1381996456
+s489
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1381996456
+s3526
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1381996456
+s4956
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1381996456
+s393
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1381996456
+s629
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1381996456
+s442
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1381996456
+s818
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1381996456
+s481
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1381996456
+s530
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1381996456
+s482
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1381996456
+s474
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1381996456
+s531
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1381996456
+s522
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1381996456
+s3704
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1381996456
+s5221
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1381996456
+s496
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1381996456
+s501
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1381996458
+s262
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1381996458
+s935
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1381996458
+s610
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1381996458
+s1223
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1381996456
+s608
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1381996458
+s278
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1381996458
+s1167
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1381996458
+s705
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1381996458
+s1371
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1381996458
+s275
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1381996458
+s394
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1381996458
+s330
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1381996458
+s456
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1381996456
+s597
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1381996456
+s515
+
+N/Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1381996456
+s504
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese52ba969d00fb841^35f0c769d00fb841^---0#1#1#--18"Check dependencies36"6457F322-0518-4CDE-A767-EE206FF595DF-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1156d72e6f18b841^08ae062f6f18b841^---0#1#1#--18"Check dependencies36"4D7789D2-BD15-401D-BE1B-6D46894DA30B-
 
 CCopyPNGFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
 s403689257.875083
@@ -1102,6 +1673,144 @@ xResources/Images/stop-button@2x.png
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pngc5c93d2acf0fb841^ee784b2acf0fb841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^796"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"F46DA68D-B828-4069-856A-FC2136346F50-
 b556C1C31-576C-4FEF-987C-46D2955161BB
 
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+r0
+
+CCopyPNGFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+r0
+
 CCopyStringsFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
 s403689257.228137
 e403689257.261018
@@ -1262,6 +1971,54 @@ xResources/zh_Hant.lproj/SSToolkit.strings
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings55844329cf0fb841^68cf4529cf0fb841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^755"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"5116DEC9-6033-4DF7-9373-95FC7FDBBB5A-
 b556C1C31-576C-4FEF-987C-46D2955161BB
 
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+r0
+
+CCopyStringsFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+r0
+
 CProcessInfoPlistFile /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
 s403689257.215309
 e403689257.219533
@@ -1272,6 +2029,12 @@ x/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Inf
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist97"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist47593729cf0fb841^83333829cf0fb841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^773"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/xaree/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/xaree/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"42A55189-EDF0-4FFD-9669-E3A9A5D01EF3-
 b556C1C31-576C-4FEF-987C-46D2955161BB
 
+CProcessInfoPlistFile /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+r0
+
 CTouch /Users/xaree/Desktop/XSpectDemo/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+
+CTouch /Users/xareelee/Desktop/XSpect/XSpectDemo/Pods/SSToolkit/./SSToolkitResources.bundle
 r0
 

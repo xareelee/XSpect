@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FBB249B3-5CFC-42CB-BBF7-42AA699E2F1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XSpectDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A2714A4-154B-4B57-A0D6-D64A18173DF7</key>
+		<string>https://github.com/xareelee/XSpect</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XSpectDemo/XSpectDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A2714A4-154B-4B57-A0D6-D64A18173DF7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xareelee/XSpect</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A2714A4-154B-4B57-A0D6-D64A18173DF7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A2714A4-154B-4B57-A0D6-D64A18173DF7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XSpect</string>
+		</dict>
+	</array>
+</dict>
+</plist>

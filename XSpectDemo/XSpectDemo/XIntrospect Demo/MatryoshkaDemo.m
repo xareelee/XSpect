@@ -79,6 +79,58 @@
 #if Demo_Tag_Matryoshka == 4
 	NSLog(@"Demo_Tag_Matryoshka (4)");
 	NSLog(@"----");
+	// Assemble into a large Matryoshka step by step.
+	
+	Matryoshka matryoshka;
+	matryoshka = mainTask(nil);
+	matryoshka = introspect3(matryoshka);
+	matryoshka = introspect2(matryoshka);
+	matryoshka = introspect1(matryoshka);
+	
+	if (matryoshka) { matryoshka(); }
+	
+	return;
+	
+#endif
+	
+	// ==========================
+#if Demo_Tag_Matryoshka == 5
+	NSLog(@"Demo_Tag_Matryoshka (5)");
+	NSLog(@"----");
+	// Brief results after IntrospectBlock invocation.
+
+	Matryoshka matryoshka_main = ^(){
+        NSLog(@"Here's the main task");
+	};
+	
+	Matryoshka matryoshka_3 = ^(){
+		NSLog(@"before advice 3");
+		matryoshka_main();
+		NSLog(@"after advice 3");
+	};
+	
+	Matryoshka matryoshka_2 = ^(){
+		NSLog(@"before advice 2");
+		matryoshka_3();
+		NSLog(@"after advice 2");
+	};
+	
+	Matryoshka matryoshka = ^(){
+		NSLog(@"before advice 1");
+		matryoshka_2();
+		NSLog(@"after advice 1");
+	};
+
+	if (matryoshka) { matryoshka(); }
+
+	return;
+
+#endif
+
+	// ==========================
+#if Demo_Tag_Matryoshka == 6
+	NSLog(@"Demo_Tag_Matryoshka (6)");
+	NSLog(@"----");
 	// Without using IntrospectBlock/Matryoshka to encapsulate code.
 	Matryoshka matryoshka = ^(){
         NSLog(@"before advice 1");
