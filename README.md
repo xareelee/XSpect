@@ -1,7 +1,7 @@
 XSpect
 ======
 
-A lightweight library to make your code reusable and maintainable.
+A new Obj-C programming way to make your code reusable and maintainable.
 
 Tutorial
 ========
@@ -11,10 +11,11 @@ Here is [a brief tutorial about XSpect][XSpect Tutorial].
 Contacts
 ========
 
-Hi. My name is *Kang-Yu Xaree Lee*. Hope you enjoy this library for Obj-C programming.
+Hi. My name is *Kang-Yu Xaree Lee*. Hope you enjoy this library for Obj-C programming. 
 
+Facebook group: [XSpect group][Facebook group]  
 Email: <xareelee@gmail.com>  
-Facebook group: [XSpect group][Facebook group]
+
 
 
 [XSpect Tutorial]: Documents/XSpect_Tutorial.md
