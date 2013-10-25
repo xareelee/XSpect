@@ -18,7 +18,7 @@ The purposes of the two libraries are the same: to separate the subtasks from th
 
 ![selector chain][figure 1]
 
-Here is the comparison between XApesct and XIntrospect:
+Here are the comparisons between XApesct and XIntrospect:
 
 Comparison    | XApesct                           | XIntrospect
 ------------- | --------------------------------- | ------------------------------------
@@ -30,7 +30,7 @@ Advantage     | keep OCP principle                | keep SRP principle
 
 XApesct and XIntrospect are independent libraries. You may only choose one to use. 
 
-<a id="XAspect">XAspect</a>
+<a id="XAspect">[XAspect](#XAspect)</a>
 =======
 
 > This section only demonstrates a brief introduction of XAspect and how to use it.
@@ -190,7 +190,7 @@ It's time to show you how XAspect glues those code. Add `Aspect-ShareKit.m` (in 
 `Aspect-ShareKit.m` is a reusable file for other projects also using ShareKit. You just need to reset the API keys and the aspect target-actions (aspect classes and aspect methods) for share event.
 
 
-<a id="XIntrospect">XIntrospect</a>
+<a id="XIntrospect">[XIntrospect](#XIntrospect)</a>
 ===========
 
 > This section only demonstrates a brief introduction of XIntrospect and how to use it.
