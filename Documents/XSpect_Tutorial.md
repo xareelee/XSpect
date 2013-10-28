@@ -1,20 +1,20 @@
 XSpect Tutorial
 ===============
 
-> This tutorial demonstrates how XSpect works through demo code. 
+> This tutorial demonstrates how XSpect works through code demonstration. 
 > For full information, you should read other documentations.
 
-> You can find all the sample code in the [XSpectDemo xcode project][demo project link]. This project using [CocoaPods][CocoaPods] and you should use the `XSpectDemo.xcworkspace` to run the app.
+> You can find all the sample code in the [XSpectDemo xcode project][demo project link]. This project uses [CocoaPods][CocoaPods] and to open the project please open `XSpectDemo.xcworkspace`.
 
 Brief Introduction of XSpect
 ----------------------------
 
 **XSpect** is an open-source library which makes code reusable and maintainable. It contains two independent sub-libraries: 
 
-* [**XApesct**](#XAspect): a way to do [aspect-oriented programming (AOP)][AOP] for Obj-C using method swizzling.
+* [**XApesct**](#XAspect): an implementaiton of [aspect-oriented programming (AOP)][AOP] for Obj-C using method swizzling.
 * [**XIntrospect**](#XIntrospect): a way to encapsulate code in the Obj-C blocks for higher reusability and readablity using a technique I call **Block-in-Block**
 
-The purposes of the two libraries are the same: to separate the subtasks from the main task and add them back when you need. The main difference between XAspect and XIntrospect is how to **"spect"** ([look/see][spect]) the chunks of code (advices or subtasks): XAspect *spects* them from outside of a method; XIntrospect *spects* them from inside of a method. 
+The purposes of these two libraries are the same: to decouple subtasks from the main task and add them back when you need them. The main difference between XAspect and XIntrospect is how to **"spect"** ([look/see][spect]) the chunks of code ([advices][advice] or subtasks): XAspect *spects* them from outside of a method; XIntrospect *spects* them from inside of a method. 
 
 ![selector chain][figure 1]
 
@@ -36,39 +36,39 @@ XApesct and XIntrospect are independent libraries. You may only choose one to us
 > This section only demonstrates a brief introduction of XAspect and how to use it.
 > For more information about using XAspect, you should read the documentation of XAspect.
 
-XAspect is lightweight library to add code to a method from outside. With XAspect, you can encapsulate all *cross-cutting concerns* in a file for aspect-oriented programming. 
+XAspect is a lightweight library to add code to a method from the outside. With XAspect, you can encapsulate all *cross-cutting concerns* in a file for aspect-oriented programming. 
 
-The core idea is simple: redirect the selector of a Obj-C message (method swizzling) to your custom implementations to form a "selector chain".
+The core idea is simple: redirect the selector of a Obj-C message (via method swizzling) to your custom implementations to form a "selector chain".
 
 ![selector chain][figure 2]
 
-After swapping the original implementation (IMP A) with a recursive category implementation (IMP B), it forms a selector chain (SEL A -> **IMP B** -> SEL B -> **IMP A**). So when you send a message A to the object, it actually executes implementation B just before implementation A.
+After swapping the original implementation (IMP A) with a recursive category implementation (IMP B), it forms a selector chain (SEL A -> **IMP B** -> SEL B -> **IMP A**). So when you send a message A to the object, it actually first executes implementation B before implementation A.
 
-You can add lots of implementation into the selector chain. For example, if you swap implementation B, C, and D sequentially with method A, the selector chain will start execution at the last implementation you swapped (SEL A -> **IMP D** -> SEL D -> **IMP C** -> SEL C -> **IMP B** -> SEL B -> **IMP A**).
+You can append lots of method definitions into the selector chain. For example, if you swap implementation of B, C, and D sequentially with method A, the selector chain will start execution at the last implementation you swapped (SEL A -> **IMP D** -> SEL D -> **IMP C** -> SEL C -> **IMP B** -> SEL B -> **IMP A**).
 
 ![selector chain with more aspects][figure 3]
 
-With XAspect, you can keep the [OCP (open-closed principle)][OCP] when you need to add aspect code to your project. Because the loading sequence of Obj-C categories may not be easy to be predicted, you should not expect a specific loading sequence of mutliple aspects for execution. All aspects should be independent to each others.
+With XAspect, you can follow the [OCP (open-closed principle)][OCP] when you need to add [advices][advice] into your project wihout modifying the original method implementations. Because the loading sequence of Obj-C categories cannot be predetermined, you should not rely on a specific executing sequence when there are multiple advices. All aspects should be independent of each other.
 
 How To Use XAspect
 -----------------
 
-Using XAsepct is quite easy. The core of XAsepct is just method swzziling. You only need to do the following (with only XAspectCore):
+Using XAspect is very easy. The core of XAspect is just method swizzling. You only need to do the following (with only XAspectCore):
 
 1. Create a Obj-C category of the target class. You may delete the header file (.h).
-2. Implement a recursive method with the same method signature to the target method excepting the method name in the class category (you can simply add a prefix to it). You can add [advice][advice] code before and/or after the recursive invocation.
+2. Implement a recursive method with the same method signature to the target method except the method name in the class category (you can simply add a prefix to it). You can add [advice][advice] code before and/or after the recursive invocation.
 3. Override `+load` method of the class category. Exchange the implementations of the recursive method with the target method (use `SwapClassMethod()` or `SwapInstanceMethod()`).
-4. Make sure the original implementation of the target method exists (especially the target method is an optional delegate method).
-5. It's Done. Now you can run your app to check that the XAspect works.
+4. Be sure the original implementation of the target method exists (especially when the target method is an optional delegate method).
+5. That's it. Now you can run your code to check that the XAspect works.
 
-Think writing XAspect is writing **target-action**. The **target** is the class of the category, and the **action** is the aspect method. The **aspect** is the class category name and the prefix of the aspect methods.
+Think of writing XAspect as writing **target-action**. The **target** is the class of the category, and the **action** is the aspect method. The **aspect** is the class category name and the prefix of the aspect methods.
 
 After swapping the implementations to form a selector chain, your aspect implementations in the selector chain will be invoked when the target message is sent.
 
 
 ### XAspectExtension
 
-XAspectExtension defines some convenient C macros to use XAspect easily. It's recommanded to use those C macros to write XAspect code.
+XAspectExtension defines some convenient C macros to use XAspect easily. It's recommanded to use these C macros when writing XAspect code.
 
 In your aspect file, after importing the XAspect library, you need to redefine the keyword `AtAspect`:
 
@@ -150,24 +150,24 @@ Now, add the two files, `Aspect-Mary.m` and `Aspect-Jason.m` (in the `<Project_P
 
 You didn't change or write any code in either `[AppDelegate -application:didFinishLaunchingWithOptions:]` or `[User -userName]`, but you did add advices to the `-userName`.
 
-This demo shows how you can add addtional code before and/or after the target method with keeping open-closed principle.
+This demo shows how you can add additional code before and/or after the target method while obeying the open-closed principle.
 
-XAspect Demo II – Local Notificaiton
+XAspect Demo II – Local Notification
 ------------------------------------
 
-> You can find the code in the *XSpectDemo xcode project* from the github.
+> You can find the code in the *XSpectDemo xcode project* from GitHub.
 
-Now, let's do something more pragmatic. Assume that you want to add the local notification feature to you app, and there are many buttons which should send the local notifications with delay time (or specific fire date).
+Now, let's do something more realistic. Assume that you want to add  local notification to you app, and there are many buttons which should send the local notifications with time delays (or some specific firing times).
 
 There are three buttons in `XLViewController` (button 1, button 2, and 'share' button) and one button in `XLFormatViewController` ('remind me 5 sec later' button) should send the local notifications, and when any one local notifiaiton fires, `AppDelegate` can handle it. 
 
-Those methods in the project nearly do nothing (you can try to click them). Let's add some code to implement the feature. Add `Aspect-LocalNotification.m` (in the `<Project_Path>/XSpectDemo/Aspects Demo/`) into the project, and run the app again. Try to click those buttons again, and you will find you launch local notificaitons and the `AppDelegate` handles them.
+Those methods in the project nearly do nothing (you can try to click them). Let's add some code to implement the feature. Add `Aspect-LocalNotification.m` (in the `<Project_Path>/XSpectDemo/Aspects Demo/`) into the project, and run the app again. Try to click those buttons again, and you will find you launch local notifications and the `AppDelegate` handles them.
 
 With object-oriented programming, you may modify four action methods of the four buttons and one delegate method of `AppDelegate`. That means you would modify at least three classes to accomplish the purpose.
 
 But with aspect-oriented programming, the XAspect way, you can write all the code in a file. It's more reusable and maintainable.
 
-XAspect makes those changes in a file, and you can manage them easier. Another example is to write your logs (`NSLog`) in an aspect file for a submodule. With aspect-oriented programming, you can find those log code easily, and choose to turn on/off some logs or all of them (comment out or delete them).
+Another example is to write your logs (`NSLog`) in an aspect file for a submodule. With aspect-oriented programming, you can find those log code easily, and choose to turn on/off some logs or all of them (comment out or delete them).
 
 XAspect makes your code more decoupling from other aspect code.
 
@@ -176,7 +176,7 @@ XAspect Demo III – ShareKit
 
 > You can find the code in the *XSpectDemo xcode project* from the github.
 
-XAspect is a design-pattern-like library. You can think XAspect decorates the original methods. Also, XAspect can be a mediator to glue other 3rd party libraries to your project. It makes submodules decouple from each other. 
+XAspect is a design-pattern-like library. You can think of it as decorating the original methods. Also, XAspect can be a mediator to glue other 3rd party libraries to your project. It makes submodules decouple from each other. 
 
 For example, [ShareKit][ShareKit] is library for sharing. All you need to do with ShareKit are only a few steps:
 
@@ -196,7 +196,7 @@ It's time to show you how XAspect glues those code. Add `Aspect-ShareKit.m` (in 
 > This section only demonstrates a brief introduction of XIntrospect and how to use it.
 > For more information about using XIntrospect, you should read the documentation of XIntrospect.
 
-XIntrospect is another lightweight library of XSpect using the **Block-in-Block** technique. With XIntrospect, you can easily add chunks of code to (also, remove from) the main task in the method. The main purpose of XIntrospect is to encapsulate code and flow controls in the blocks to make them more reusable than traditional functions. 
+XIntrospect is another lightweight library of XSpect using the **Block-in-Block** technique. With XIntrospect, you can easily add/remove chunks of code to/from the main task in the method. The main purpose of XIntrospect is to encapsulate code and flow controls in the blocks to make them more reusable than traditional functions. 
 
 For example, considering you implement a registration page to let users fill in the info for registration, after a user presses the "register" navigation bar button, it triggers the method showed below:
 
@@ -320,7 +320,7 @@ For example, you can compose a `Matryoshka` as following (you can find the code 
 XIntrospectExtension
 --------------------
 
-XIntrospectExtension defines many C macros for the ease-of-use of XIntrospect. You can define a `IntrospectBlock` as following:
+XIntrospectExtension defines many C macros for ease-of-use. You can define a `IntrospectBlock` as follows:
 
 	IntrospectBlock introspect = DescribeIntrospection   // Start to define an IntrospectBlock
 	NSLog(@"before advice");
@@ -328,7 +328,7 @@ XIntrospectExtension defines many C macros for the ease-of-use of XIntrospect. Y
 	NSLog(@"after advice");
 	EndDescribeIntrospection	// End to define an IntrospectBlock
 
-And using `IntrospectBlock` as following:
+And use `IntrospectBlock` as follows:
 
 	Introspect
 	introspect1,	
@@ -340,7 +340,7 @@ And using `IntrospectBlock` as following:
 	
 	EndIntrospection
 	
-It helps the code more descriptive, cleaner and readable.
+It makes code more descriptive, cleaner and readable.
 	
 XIntrospect Demo I – Using XIntrospect with XIntrospectExtension
 ---------------------
@@ -394,7 +394,7 @@ This is equivalent to:
     };
 	if (matryoshka) { matryoshka(); }
 
-Take time to understand the code inside of `+introspectDemo` of the demo project. Some of the code has been demonstrated in the previous section. Make sure you are understanding how to use XIntrospect to add code before and/or after the main task. I'll demonstrate how to use XIntrospect to do flow controls in the next section.
+Take time to understand the code inside of `+introspectDemo` of the demo project. Some of the code has been demonstrated in the previous section. Make sure you understand how to use XIntrospect to add code before and after the main task. I'll demonstrate how to use XIntrospect to do flow controls in the next section.
 
 
 XIntrospect Demo II – Registration Page
@@ -402,11 +402,11 @@ XIntrospect Demo II – Registration Page
 
 > You can find the code in the *XSpectDemo xcode project* from the github.
 
-A Registration page is common for a multiple users system. After a user fills up the format, the user will press the 'done' button to send the registration request. But before the app sends the request, the state of UI and the integrity of data should be checked. It's a tedious job to do the numerous validation.
+A Registration page is common for a multi-user system. After a user fills up the form, the user presses the 'done' button to send the registration request. But before the app sends the request, the state of UI and the integrity of data should be checked. It's a tedious job to do the numerous validation.
 
-With XIntrospect, you encapsulate each subtask (and flow controls) into a block, and reuse them easily. Take time to look at the `-registerAnAccount:` of `XLFormatViewController`. There are two implementations to do the same thing (you may change the `Demo_Tag_Block_in_Block` variable to 2 to use XIntrospect way).
+With XIntrospect, you encapsulate each subtask (and flow controls) into a block, and reuse them easily. Take the time to look at the `-registerAnAccount:` of `XLFormatViewController`. There are two implementations to do the same thing (you may change the `Demo_Tag_Block_in_Block` variable to 2 to use XIntrospect way).
 
-For example, the following implmenetation can be encapsulated into a IntrospectBlock for reuse:
+For example, the following implementation can be encapsulated into a IntrospectBlock for reuse:
 
     if (! self.nameField.text ||
         [self.nameField.text length] == 0) {
@@ -436,7 +436,7 @@ The IntrospectBlock should be implemented as:
 	    };
 	}
 
-And use this IntrospectBlock just in one line:
+And use this IntrospectBlock in just one line:
 
 	...
 	Guard_StringShouldContainCharacters(self.nameField.text, @"Please fill up the name"),
@@ -445,22 +445,22 @@ And use this IntrospectBlock just in one line:
 The `Guard_StringShouldContainCharacters()` functions returns two kinds of `IntrospectBlock`:
 
 1. If the test is not passed, it returns an `IntrospectBlock` which only shows an alert and will not invoke the `innerMatryoshka` (stop executing the next block).
-2. If the test is passed, it returns an `IntrospectBlock` which dose nothing but only invoke the `innerMatryoshka` (continue executing the next block).
+2. If the test is passed, it returns an `IntrospectBlock` which does nothing but only invoke the `innerMatryoshka` (continue executing the next block).
 
-Using functions which create `IntrospectBlock` could control the flow (procedure) at three different level:
+Using functions which create `IntrospectBlock` could control the flow (procedure) at three different levels:
 
 1. Function execution level: the place to decide which `IntrospectBlock` to be returned.
 2. IntrospectBlock execution level: the place to decide which `Matryoshka` to be returned.
 3. Matryoshka execution level: the place to decide whether the inner `Matryoshka` to be invoked or not (a `Matryoshka` should be created inside of an `IntrospectBlock`).
 
-This tutorial only demonstrates the basic use of XIntrospect. XIntrospect could be powerful if all the highly reusable code has been encapsulated in the `IntrospectBlock` (or associated functions). XIntrospect keeps [SRP principle][SRP] to make the chunks of code more reusable.
+This tutorial only demonstrates the basic use of XIntrospect. XIntrospect could be powerful if all the highly reusable code has been encapsulated in the `IntrospectBlocks` (or their associated functions). XIntrospect help maintains [SRP principle][SRP] to make the chunks of code more reusable.
 
 Summary
 =======
 
-XSpect contains two independent lightweight libraries to let you add code to target task/method easily. It keeps OCP and SRP principles, and it makes your code more reusable and maintainable. 
+XSpect contains two independent lightweight libraries to let you add code to target task/method easily. The methodologies obey OCP and SRP principles, and it makes your code more reusable and maintainable. 
 
-Hope you enjoy this breif tutorial about XSpect.
+Hope you enjoy this brief tutorial on XSpect.
 
 
 [CocoaPods]: http://cocoapods.org
@@ -470,6 +470,7 @@ Hope you enjoy this breif tutorial about XSpect.
 [AOP]: http://en.wikipedia.org/wiki/Aspect-oriented_programming
 [spect]: http://www.prefixsuffix.com/rootsearch.php?field=root&find=spect&searching=yes
 [OCP]: http://en.wikipedia.org/wiki/Open/closed_principle
+[advice]: https://en.wikipedia.org/wiki/Advice_in_aspect-oriented_programming
 [SRP]: http://en.wikipedia.org/wiki/Single_responsibility_principle
 
 [demo project link]: ../XSpectDemo/

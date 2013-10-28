@@ -1,12 +1,12 @@
 XSpect
 ======
 
-A new Obj-C programming way to make your code reusable and maintainable.
+A new way to Obj-C programming to make your code reusable and maintainable.
 
 Tutorial
 ========
 
-Here is [a brief tutorial about XSpect][XSpect Tutorial]. 
+Here is [a brief tutorial on XSpect][XSpect Tutorial]. 
 
 Contacts
 ========
