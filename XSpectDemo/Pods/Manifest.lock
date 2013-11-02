@@ -36,6 +36,13 @@ PODS:
     - SBJson
   - GTMHTTPFetcher (0.0.1):
     - SBJson
+  - Kiwi (2.2.2):
+    - Kiwi/SenTestingKit
+  - Kiwi/ARC (2.2.2)
+  - Kiwi/NonARC (2.2.2)
+  - Kiwi/SenTestingKit (2.2.2):
+    - Kiwi/ARC
+    - Kiwi/NonARC
   - objectiveflickr (2.0.2)
   - PocketAPI (1.0.2)
   - SBJson (3.2)
@@ -129,6 +136,7 @@ PODS:
   - SSToolkit (1.0.4)
 
 DEPENDENCIES:
+  - Kiwi
   - ShareKit
 
 SPEC CHECKSUMS:
@@ -138,6 +146,7 @@ SPEC CHECKSUMS:
   Google-API-Client: a5aea65083895ad2fa8eeca4747478215c9ac934
   gtm-oauth2: af6d1ff3d4b14b35d3709f7f4bf2be8b43e45e62
   GTMHTTPFetcher: b0af09f18ec87e7a5edeffcc8cb6449fdbf0e83f
+  Kiwi: 03539aeb004ccd42bdbc31253617b26364315df4
   objectiveflickr: c98b7590cee96dbd4a2d2529f6910fea8e566164
   PocketAPI: 2ed51391e6ea7a48c707528f782f5a2cb0eab80e
   SBJson: e60b4dc22448c2ae1e754b523a4ab53408e85c8d

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0A54526A72734BF4992ABA74 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9934B6931DC74DB89343AD84 /* libPods.a */; };
 		260253091810099C00BCF5FE /* MatryoshkaDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 260253081810099C00BCF5FE /* MatryoshkaDemo.m */; };
+		267A1A69181BBCF500273402 /* XLIntrospectFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 267A1A68181BBCF500273402 /* XLIntrospectFunctions.m */; };
 		26B7BB0B180EF0670000999E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26B7BB0A180EF0670000999E /* Foundation.framework */; };
 		26B7BB0D180EF0670000999E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26B7BB0C180EF0670000999E /* CoreGraphics.framework */; };
 		26B7BB0F180EF0670000999E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26B7BB0E180EF0670000999E /* UIKit.framework */; };
@@ -22,15 +23,15 @@
 		26B7BB34180EF0670000999E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 26B7BB32180EF0670000999E /* InfoPlist.strings */; };
 		26B7BB36180EF0670000999E /* XSpectDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB35180EF0670000999E /* XSpectDemoTests.m */; };
 		26B7BB4D180EF0A70000999E /* XAspectCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB43180EF0A70000999E /* XAspectCore.m */; };
-		26B7BB4E180EF0A70000999E /* XAspectExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB45180EF0A70000999E /* XAspectExtension.m */; };
+		26B7BB4E180EF0A70000999E /* XAspectStyleSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB45180EF0A70000999E /* XAspectStyleSheet.m */; };
 		26B7BB4F180EF0A70000999E /* XIntrospectCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB49180EF0A70000999E /* XIntrospectCore.m */; };
-		26B7BB50180EF0A70000999E /* XIntrospectExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB4B180EF0A70000999E /* XIntrospectExtension.m */; };
-		26B7BB53180EF1530000999E /* XLIntrospectFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB52180EF1530000999E /* XLIntrospectFunctions.m */; };
+		26B7BB50180EF0A70000999E /* XIntrospectStyleSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB4B180EF0A70000999E /* XIntrospectStyleSheet.m */; };
 		26B7BB58180EF2540000999E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26B7BB56180EF2540000999E /* Main.storyboard */; };
 		26B7BB5C180EF2820000999E /* XLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB5B180EF2820000999E /* XLViewController.m */; };
 		26B7BB5F180EF2920000999E /* XLFormatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB5E180EF2920000999E /* XLFormatViewController.m */; };
 		26B7BB63180EF2B10000999E /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB62180EF2B10000999E /* User.m */; };
 		26B7BB6D180EF3C50000999E /* XLIntrospectDemoCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 26B7BB6C180EF3C50000999E /* XLIntrospectDemoCode.m */; };
+		44A4B5BD2D0E4B45AAB44EC2 /* libPods-XSpectDemoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17F910ACCB32427AA1B0F14E /* libPods-XSpectDemoTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,8 +45,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		17F910ACCB32427AA1B0F14E /* libPods-XSpectDemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XSpectDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		260253071810099C00BCF5FE /* MatryoshkaDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatryoshkaDemo.h; sourceTree = "<group>"; };
 		260253081810099C00BCF5FE /* MatryoshkaDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatryoshkaDemo.m; sourceTree = "<group>"; };
+		267A1A67181BBCF500273402 /* XLIntrospectFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLIntrospectFunctions.h; sourceTree = "<group>"; };
+		267A1A68181BBCF500273402 /* XLIntrospectFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLIntrospectFunctions.m; sourceTree = "<group>"; };
 		26B7BB07180EF0670000999E /* XSpectDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XSpectDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		26B7BB0A180EF0670000999E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		26B7BB0C180EF0670000999E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,16 +69,14 @@
 		26B7BB41180EF0A70000999E /* XAspect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XAspect.h; sourceTree = "<group>"; };
 		26B7BB42180EF0A70000999E /* XAspectCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XAspectCore.h; sourceTree = "<group>"; };
 		26B7BB43180EF0A70000999E /* XAspectCore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XAspectCore.m; sourceTree = "<group>"; };
-		26B7BB44180EF0A70000999E /* XAspectExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XAspectExtension.h; sourceTree = "<group>"; };
-		26B7BB45180EF0A70000999E /* XAspectExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XAspectExtension.m; sourceTree = "<group>"; };
+		26B7BB44180EF0A70000999E /* XAspectStyleSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XAspectStyleSheet.h; sourceTree = "<group>"; };
+		26B7BB45180EF0A70000999E /* XAspectStyleSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XAspectStyleSheet.m; sourceTree = "<group>"; };
 		26B7BB47180EF0A70000999E /* XIntrospect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XIntrospect.h; sourceTree = "<group>"; };
 		26B7BB48180EF0A70000999E /* XIntrospectCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XIntrospectCore.h; sourceTree = "<group>"; };
 		26B7BB49180EF0A70000999E /* XIntrospectCore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XIntrospectCore.m; sourceTree = "<group>"; };
-		26B7BB4A180EF0A70000999E /* XIntrospectExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XIntrospectExtension.h; sourceTree = "<group>"; };
-		26B7BB4B180EF0A70000999E /* XIntrospectExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XIntrospectExtension.m; sourceTree = "<group>"; };
+		26B7BB4A180EF0A70000999E /* XIntrospectStyleSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XIntrospectStyleSheet.h; sourceTree = "<group>"; };
+		26B7BB4B180EF0A70000999E /* XIntrospectStyleSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XIntrospectStyleSheet.m; sourceTree = "<group>"; };
 		26B7BB4C180EF0A70000999E /* XSpect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XSpect.h; sourceTree = "<group>"; };
-		26B7BB51180EF1530000999E /* XLIntrospectFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLIntrospectFunctions.h; sourceTree = "<group>"; };
-		26B7BB52180EF1530000999E /* XLIntrospectFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLIntrospectFunctions.m; sourceTree = "<group>"; };
 		26B7BB57180EF2540000999E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		26B7BB5A180EF2820000999E /* XLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLViewController.h; sourceTree = "<group>"; };
 		26B7BB5B180EF2820000999E /* XLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLViewController.m; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 		26B7BB62180EF2B10000999E /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
 		26B7BB6B180EF3C50000999E /* XLIntrospectDemoCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLIntrospectDemoCode.h; sourceTree = "<group>"; };
 		26B7BB6C180EF3C50000999E /* XLIntrospectDemoCode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLIntrospectDemoCode.m; sourceTree = "<group>"; };
+		97B4B4734DD14CE08A87F310 /* Pods-XSpectDemoTests.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XSpectDemoTests.xcconfig"; path = "Pods/Pods-XSpectDemoTests.xcconfig"; sourceTree = "<group>"; };
 		9934B6931DC74DB89343AD84 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CD74853A6A640429F00AC22 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -107,6 +110,7 @@
 				26B7BB2A180EF0670000999E /* XCTest.framework in Frameworks */,
 				26B7BB2C180EF0670000999E /* UIKit.framework in Frameworks */,
 				26B7BB2B180EF0670000999E /* Foundation.framework in Frameworks */,
+				44A4B5BD2D0E4B45AAB44EC2 /* libPods-XSpectDemoTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,6 +126,7 @@
 				26B7BB09180EF0670000999E /* Frameworks */,
 				26B7BB08180EF0670000999E /* Products */,
 				9CD74853A6A640429F00AC22 /* Pods.xcconfig */,
+				97B4B4734DD14CE08A87F310 /* Pods-XSpectDemoTests.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -142,6 +147,7 @@
 				26B7BB0E180EF0670000999E /* UIKit.framework */,
 				26B7BB29180EF0670000999E /* XCTest.framework */,
 				9934B6931DC74DB89343AD84 /* libPods.a */,
+				17F910ACCB32427AA1B0F14E /* libPods-XSpectDemoTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -207,8 +213,8 @@
 				26B7BB41180EF0A70000999E /* XAspect.h */,
 				26B7BB42180EF0A70000999E /* XAspectCore.h */,
 				26B7BB43180EF0A70000999E /* XAspectCore.m */,
-				26B7BB44180EF0A70000999E /* XAspectExtension.h */,
-				26B7BB45180EF0A70000999E /* XAspectExtension.m */,
+				26B7BB44180EF0A70000999E /* XAspectStyleSheet.h */,
+				26B7BB45180EF0A70000999E /* XAspectStyleSheet.m */,
 			);
 			path = XAspect;
 			sourceTree = "<group>";
@@ -219,10 +225,8 @@
 				26B7BB47180EF0A70000999E /* XIntrospect.h */,
 				26B7BB48180EF0A70000999E /* XIntrospectCore.h */,
 				26B7BB49180EF0A70000999E /* XIntrospectCore.m */,
-				26B7BB4A180EF0A70000999E /* XIntrospectExtension.h */,
-				26B7BB4B180EF0A70000999E /* XIntrospectExtension.m */,
-				26B7BB51180EF1530000999E /* XLIntrospectFunctions.h */,
-				26B7BB52180EF1530000999E /* XLIntrospectFunctions.m */,
+				26B7BB4A180EF0A70000999E /* XIntrospectStyleSheet.h */,
+				26B7BB4B180EF0A70000999E /* XIntrospectStyleSheet.m */,
 			);
 			path = XIntrospect;
 			sourceTree = "<group>";
@@ -261,6 +265,8 @@
 				260253081810099C00BCF5FE /* MatryoshkaDemo.m */,
 				26B7BB6B180EF3C50000999E /* XLIntrospectDemoCode.h */,
 				26B7BB6C180EF3C50000999E /* XLIntrospectDemoCode.m */,
+				267A1A67181BBCF500273402 /* XLIntrospectFunctions.h */,
+				267A1A68181BBCF500273402 /* XLIntrospectFunctions.m */,
 			);
 			path = "XIntrospect Demo";
 			sourceTree = "<group>";
@@ -291,9 +297,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 26B7BB3C180EF0670000999E /* Build configuration list for PBXNativeTarget "XSpectDemoTests" */;
 			buildPhases = (
+				F6EDEA553B4842A6A65A99E8 /* Check Pods Manifest.lock */,
 				26B7BB24180EF0670000999E /* Sources */,
 				26B7BB25180EF0670000999E /* Frameworks */,
 				26B7BB26180EF0670000999E /* Resources */,
+				7652B58CC5584BB3973F3076 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -376,7 +384,37 @@
 			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		7652B58CC5584BB3973F3076 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-XSpectDemoTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		91964FEED3234B1EB40C24F5 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F6EDEA553B4842A6A65A99E8 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -400,14 +438,14 @@
 			files = (
 				26B7BB63180EF2B10000999E /* User.m in Sources */,
 				26B7BB6D180EF3C50000999E /* XLIntrospectDemoCode.m in Sources */,
-				26B7BB4E180EF0A70000999E /* XAspectExtension.m in Sources */,
+				26B7BB4E180EF0A70000999E /* XAspectStyleSheet.m in Sources */,
 				26B7BB1B180EF0670000999E /* AppDelegate.m in Sources */,
 				26B7BB5F180EF2920000999E /* XLFormatViewController.m in Sources */,
-				26B7BB53180EF1530000999E /* XLIntrospectFunctions.m in Sources */,
 				26B7BB4F180EF0A70000999E /* XIntrospectCore.m in Sources */,
+				267A1A69181BBCF500273402 /* XLIntrospectFunctions.m in Sources */,
 				26B7BB4D180EF0A70000999E /* XAspectCore.m in Sources */,
 				26B7BB17180EF0670000999E /* main.m in Sources */,
-				26B7BB50180EF0A70000999E /* XIntrospectExtension.m in Sources */,
+				26B7BB50180EF0A70000999E /* XIntrospectStyleSheet.m in Sources */,
 				260253091810099C00BCF5FE /* MatryoshkaDemo.m in Sources */,
 				26B7BB5C180EF2820000999E /* XLViewController.m in Sources */,
 			);
@@ -561,6 +599,7 @@
 		};
 		26B7BB3D180EF0670000999E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97B4B4734DD14CE08A87F310 /* Pods-XSpectDemoTests.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/XSpectDemo.app/XSpectDemo";
@@ -584,6 +623,7 @@
 		};
 		26B7BB3E180EF0670000999E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97B4B4734DD14CE08A87F310 /* Pods-XSpectDemoTests.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/XSpectDemo.app/XSpectDemo";

@@ -1,5 +1,6 @@
 
 
+//  Version of XSpect: 0.3
 //  Copyright (c) 2013 Xaree Lee. All rights reserved.
 
 
@@ -7,6 +8,6 @@
 #define XAspect_h
 
 #import "XAspectCore.h"
-#import "XAspectExtension.h"
+#import "XAspectStyleSheet.h"
 
 #endif

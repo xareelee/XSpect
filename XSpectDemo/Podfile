@@ -3,3 +3,8 @@ platform :ios, '6.0'
 
 pod 'ShareKit'			# '2.4.3'
 
+target :XSpectDemoTests, :exclusive => true do
+  pod 'Kiwi'
+end
+
+

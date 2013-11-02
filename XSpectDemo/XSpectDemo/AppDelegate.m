@@ -17,8 +17,14 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-
-    NSLog(@"========== Demo XAspect ==========");
+	
+	NSLog(@"========== Demo XAspect (class method) ==========");
+	NSArray *users = [User users];
+	NSLog(@"There are %d users on the list: %@", [users count], users);
+	
+	
+	printf("\n\n");
+    NSLog(@"========== Demo XAspect (instance method) ==========");
 	User *user = [User new];
     NSLog(@"The user is: %@", [user userName]);
 	

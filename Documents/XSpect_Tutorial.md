@@ -139,7 +139,7 @@ If you run this app, you can see the following messages on the Xcode console:
 	> My name? I'm Xaree Lee
 	> The user is: Xaree Lee
 	
-Now, add the two files, `Aspect-Mary.m` and `Aspect-Jason.m` (in the `<Project_Path>/XSpectDemo/Aspects Demo/`), into the project. Then run the app again. You can see the following messages on the Xcode console:
+Now, add the two files, `Aspect-MaryAspect.m` and `Aspect-JasonAspect.m` (in the `<Project_Path>/XSpectDemo/Aspects Demo/`), into the project. Then run the app again. You can see the following messages on the Xcode console:
 
 	> Jason ----> I see you before. I know you are...
 	> Mary ----> Hello, what's your name?

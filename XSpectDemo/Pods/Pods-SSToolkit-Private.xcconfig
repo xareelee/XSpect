@@ -1,5 +1,5 @@
 #include "Pods-SSToolkit.xcconfig"
 GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
-HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/SSToolkit" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/Dropbox-iOS-SDK" "${PODS_ROOT}/Headers/Evernote-SDK-iOS" "${PODS_ROOT}/Headers/Facebook-iOS-SDK" "${PODS_ROOT}/Headers/Facebook-iOS-SDK/FacebookSDK" "${PODS_ROOT}/Headers/GTMHTTPFetcher" "${PODS_ROOT}/Headers/Google-API-Client" "${PODS_ROOT}/Headers/PocketAPI" "${PODS_ROOT}/Headers/SBJson" "${PODS_ROOT}/Headers/SSKeychain" "${PODS_ROOT}/Headers/SSToolkit" "${PODS_ROOT}/Headers/ShareKit" "${PODS_ROOT}/Headers/gtm-oauth2" "${PODS_ROOT}/Headers/objectiveflickr"
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/SSToolkit" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/Dropbox-iOS-SDK" "${PODS_ROOT}/Headers/Evernote-SDK-iOS" "${PODS_ROOT}/Headers/Facebook-iOS-SDK" "${PODS_ROOT}/Headers/Facebook-iOS-SDK/FacebookSDK" "${PODS_ROOT}/Headers/GTMHTTPFetcher" "${PODS_ROOT}/Headers/Google-API-Client" "${PODS_ROOT}/Headers/Kiwi" "${PODS_ROOT}/Headers/PocketAPI" "${PODS_ROOT}/Headers/SBJson" "${PODS_ROOT}/Headers/SSKeychain" "${PODS_ROOT}/Headers/SSToolkit" "${PODS_ROOT}/Headers/ShareKit" "${PODS_ROOT}/Headers/gtm-oauth2" "${PODS_ROOT}/Headers/objectiveflickr"
 OTHER_LDFLAGS = -ObjC ${PODS_SSTOOLKIT_OTHER_LDFLAGS}
 PODS_ROOT = ${SRCROOT}

@@ -24,14 +24,14 @@ IntrospectBlock introspect1 = ^Matryoshka(Matryoshka innerMatryoshka){
     };
 };
 
-// A fancy style to describe an introspection (IntrospectBlock) using XIntrospectExtension
+// A fancy style to describe an introspection (IntrospectBlock) using XIntrospectStyleSheet
 IntrospectBlock introspect2 = DescribeIntrospection
 NSLog(@"before advice 2");
 ContinueNextIntrospection
 NSLog(@"after advice 2");
 EndDescribeIntrospection
 
-// A fancy style to describe an introspection (IntrospectBlock) using XIntrospectExtension
+// A fancy style to describe an introspection (IntrospectBlock) using XIntrospectStyleSheet
 IntrospectBlock introspect3 = DescribeIntrospection
 NSLog(@"before advice 3");
 ContinueNextIntrospection

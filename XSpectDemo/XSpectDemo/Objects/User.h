@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface User : NSObject
-- (NSString*)userName;
++ (NSArray *)users;
+- (NSString *)userName;
 @end

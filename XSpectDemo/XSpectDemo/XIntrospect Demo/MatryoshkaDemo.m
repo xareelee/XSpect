@@ -20,7 +20,7 @@
 	NSLog(@"Demo_Tag_Matryoshka (1)");
 	NSLog(@"----");
 	
-	// This is XIntrospectExtension style sheet (Introspect...MainTask...EndIntrospection).
+	// This is XIntrospectStyleSheet style sheet (Introspect...MainTask...EndIntrospection).
 	Introspect
 	introspect1,	// You may add more introspect blocks here (between Introspect...MainTask).
 	introspect2,
