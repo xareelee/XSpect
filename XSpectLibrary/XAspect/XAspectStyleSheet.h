@@ -1,5 +1,6 @@
 
 
+//  Version of XSpect: 0.3
 //  Copyright (c) 2013 Xaree Lee. All rights reserved.
 
 
@@ -26,7 +27,7 @@ void SwapInstanceMethods(NSString *aspectName, Class class, SEL classSelector, .
  Must Read –– About `AtAspect` Macro Variable
  ==============================================
  
- `AtAspect` is a macro variable which isn't defined in XAspect library, but is used for many macros in XAspect. You should define/redefine `AtAspect` whenever you want to use XAspectExtension macros to define a category of the aspect.
+ `AtAspect` is a macro variable which isn't defined in XAspect library, but is used for many macros in XAspect. You should define/redefine `AtAspect` whenever you want to use XAspectStyleSheet macros to define a category of the aspect.
  
  It will be used for the Obj-C category name and the prefix of the aspect methods.
  
@@ -90,20 +91,20 @@ dispatch_once(&onceToken, ^{
 #pragma mark Macros to help set the configuration of the aspect.
 
 /**
- `WeaveAspectOfClassMethods(classSelector, ...)` macro will swap multiple selectors of class methods for the class using it. It will use the `AtAspect` as the prefix for the aspect methods (separated by a underscore).
+ `WeaveAspectClassMethods(classSelector, ...)` macro will swap multiple selectors of class methods for the class using it. It will use the `AtAspect` as the prefix for the aspect methods (separated by a underscore).
  
  You should use this macro in the `+load` method or the configuration block in the `AspectOfClass(className) ... AspectImplementation ... EndAspect` format.
  
  @param classSelector The selectors of the original class method (without aspect prefix).
  
  */
-#define WeaveAspectOfClassMethods(classSelector, ...)  \
-PrototypeWeaveAspectOfClassMethods(AtAspect, [self class], (classSelector), ##__VA_ARGS__, nil)
+#define WeaveAspectClassMethods(classSelector, ...)  \
+PrototypeWeaveAspectClassMethods(AtAspect, [self class], (classSelector), ##__VA_ARGS__, nil)
 
-#define PrototypeWeaveAspectOfClassMethods(aspectName, class, classSelector, ...) \
-ResolvedWeaveAspectOfClassMethods(aspectName, class, (classSelector), ##__VA_ARGS__)
+#define PrototypeWeaveAspectClassMethods(aspectName, class, classSelector, ...) \
+ResolvedWeaveAspectClassMethods(aspectName, class, (classSelector), ##__VA_ARGS__)
 
-#define ResolvedWeaveAspectOfClassMethods(aspectName, class, classSelector, ...) \
+#define ResolvedWeaveAspectClassMethods(aspectName, class, classSelector, ...) \
 SwapClassMethods(@#aspectName, class, (classSelector), ##__VA_ARGS__)
 
 
