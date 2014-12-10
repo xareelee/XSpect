@@ -3,8 +3,9 @@ XSpect
 
 A new way to Obj-C programming to make your code reusable and maintainable.
 
-**NOTE: The sub-library XAspect has been separated from XSpect. You could find this independent library [here](https://github.com/xareelee/XAspect).**
+**NOTE: The sub-library [XAspect][XAspect] has been separated from XSpect. You could find this independent library [here][XAspect].**
 
+[XAspect]: https://github.com/xareelee/XAspect
 
 Tutorial
 ========
